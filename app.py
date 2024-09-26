@@ -26,7 +26,8 @@ def login():
         )
 
         # Flash a message and return to the login page
-        flash("Login unsuccessful. Your attempt has been logged.")
+        flash("Login unsuccessful..")
+        flash("Your attempt has been logged!!")
         flash("Try again..")
         return redirect(url_for("login"))  # Redirect back to login page
 
@@ -39,7 +40,7 @@ def admin():
     logging.info(f"Unauthorized access attempt to /admin from: {request.remote_addr}")
 
     # Flash the forbidden message
-    flash("🛑 Forbidden.")
+    flash("Forbidden.")
     flash("This attempt has been logged.")
 
     # Render the admin page (which will show the message and redirect)

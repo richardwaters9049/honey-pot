@@ -664,3 +664,170 @@
 2024-09-26 02:12:30,552 - 127.0.0.1 - - [26/Sep/2024 02:12:30] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
 2024-09-26 02:12:33,583 - 127.0.0.1 - - [26/Sep/2024 02:12:33] "GET / HTTP/1.1" 200 -
 2024-09-26 02:12:33,628 - 127.0.0.1 - - [26/Sep/2024 02:12:33] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:22:48,454 - 127.0.0.1 - - [26/Sep/2024 02:22:48] "GET / HTTP/1.1" 200 -
+2024-09-26 02:22:48,516 - 127.0.0.1 - - [26/Sep/2024 02:22:48] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:24:34,428 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.97:5001
+2024-09-26 02:24:34,428 - [33mPress CTRL+C to quit[0m
+2024-09-26 02:24:38,102 - 127.0.0.1 - - [26/Sep/2024 02:24:38] "GET / HTTP/1.1" 200 -
+2024-09-26 02:24:38,191 - 127.0.0.1 - - [26/Sep/2024 02:24:38] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:24:41,818 - Unauthorized access attempt to /admin from: 127.0.0.1
+2024-09-26 02:24:41,823 - 127.0.0.1 - - [26/Sep/2024 02:24:41] "GET /admin HTTP/1.1" 200 -
+2024-09-26 02:24:41,885 - 127.0.0.1 - - [26/Sep/2024 02:24:41] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:24:44,921 - 127.0.0.1 - - [26/Sep/2024 02:24:44] "GET / HTTP/1.1" 200 -
+2024-09-26 02:24:44,965 - 127.0.0.1 - - [26/Sep/2024 02:24:44] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:25:10,320 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.97:5001
+2024-09-26 02:25:10,320 - [33mPress CTRL+C to quit[0m
+2024-09-26 02:25:15,056 - 127.0.0.1 - - [26/Sep/2024 02:25:15] "GET /login HTTP/1.1" 200 -
+2024-09-26 02:25:15,148 - 127.0.0.1 - - [26/Sep/2024 02:25:15] "GET /static/css/output.css HTTP/1.1" 200 -
+2024-09-26 02:25:20,133 - Unauthorized access attempt to /admin from: 127.0.0.1
+2024-09-26 02:25:20,149 - 127.0.0.1 - - [26/Sep/2024 02:25:20] "GET /admin HTTP/1.1" 200 -
+2024-09-26 02:25:20,217 - 127.0.0.1 - - [26/Sep/2024 02:25:20] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:25:23,284 - 127.0.0.1 - - [26/Sep/2024 02:25:23] "GET / HTTP/1.1" 200 -
+2024-09-26 02:25:23,365 - 127.0.0.1 - - [26/Sep/2024 02:25:23] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:25:41,225 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.97:5001
+2024-09-26 02:25:41,225 - [33mPress CTRL+C to quit[0m
+2024-09-26 02:25:46,424 - Unauthorized access attempt to /admin from: 127.0.0.1
+2024-09-26 02:25:46,450 - 127.0.0.1 - - [26/Sep/2024 02:25:46] "GET /admin HTTP/1.1" 200 -
+2024-09-26 02:25:46,511 - 127.0.0.1 - - [26/Sep/2024 02:25:46] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:25:49,561 - 127.0.0.1 - - [26/Sep/2024 02:25:49] "GET / HTTP/1.1" 200 -
+2024-09-26 02:25:49,627 - 127.0.0.1 - - [26/Sep/2024 02:25:49] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:26:06,523 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.97:5001
+2024-09-26 02:26:06,523 - [33mPress CTRL+C to quit[0m
+2024-09-26 02:26:10,324 - 127.0.0.1 - - [26/Sep/2024 02:26:10] "GET / HTTP/1.1" 200 -
+2024-09-26 02:26:10,372 - 127.0.0.1 - - [26/Sep/2024 02:26:10] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:26:14,575 - Unauthorized access attempt to /admin from: 127.0.0.1
+2024-09-26 02:26:14,579 - 127.0.0.1 - - [26/Sep/2024 02:26:14] "GET /admin HTTP/1.1" 200 -
+2024-09-26 02:26:14,643 - 127.0.0.1 - - [26/Sep/2024 02:26:14] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:26:17,677 - 127.0.0.1 - - [26/Sep/2024 02:26:17] "GET / HTTP/1.1" 200 -
+2024-09-26 02:26:17,726 - 127.0.0.1 - - [26/Sep/2024 02:26:17] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:26:40,824 - Unauthorized access attempt to /admin from: 127.0.0.1
+2024-09-26 02:26:40,826 - 127.0.0.1 - - [26/Sep/2024 02:26:40] "GET /admin HTTP/1.1" 200 -
+2024-09-26 02:26:40,956 - 127.0.0.1 - - [26/Sep/2024 02:26:40] "GET /static/css/output.css HTTP/1.1" 200 -
+2024-09-26 02:26:44,013 - 127.0.0.1 - - [26/Sep/2024 02:26:44] "GET / HTTP/1.1" 200 -
+2024-09-26 02:26:44,068 - 127.0.0.1 - - [26/Sep/2024 02:26:44] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:27:06,209 - 127.0.0.1 - - [26/Sep/2024 02:27:06] "GET /login HTTP/1.1" 200 -
+2024-09-26 02:27:06,275 - 127.0.0.1 - - [26/Sep/2024 02:27:06] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:27:09,561 - Login attempt with username: cdsvc and password: cewdcssdvc from 127.0.0.1
+2024-09-26 02:27:09,565 - 127.0.0.1 - - [26/Sep/2024 02:27:09] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-09-26 02:27:09,583 - 127.0.0.1 - - [26/Sep/2024 02:27:09] "GET /login HTTP/1.1" 200 -
+2024-09-26 02:27:09,636 - 127.0.0.1 - - [26/Sep/2024 02:27:09] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:28:50,740 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.97:5001
+2024-09-26 02:28:50,740 - [33mPress CTRL+C to quit[0m
+2024-09-26 02:28:54,704 - 127.0.0.1 - - [26/Sep/2024 02:28:54] "GET /login HTTP/1.1" 200 -
+2024-09-26 02:28:54,769 - 127.0.0.1 - - [26/Sep/2024 02:28:54] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:28:58,019 - Login attempt with username: Richy_Waters and password: sefsdf from 127.0.0.1
+2024-09-26 02:28:58,020 - 127.0.0.1 - - [26/Sep/2024 02:28:58] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-09-26 02:28:58,029 - 127.0.0.1 - - [26/Sep/2024 02:28:58] "GET /login HTTP/1.1" 200 -
+2024-09-26 02:28:58,070 - 127.0.0.1 - - [26/Sep/2024 02:28:58] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:29:40,398 - 127.0.0.1 - - [26/Sep/2024 02:29:40] "GET /login HTTP/1.1" 200 -
+2024-09-26 02:29:40,447 - 127.0.0.1 - - [26/Sep/2024 02:29:40] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:29:44,417 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.97:5001
+2024-09-26 02:29:44,417 - [33mPress CTRL+C to quit[0m
+2024-09-26 02:29:46,283 - 127.0.0.1 - - [26/Sep/2024 02:29:46] "GET /login HTTP/1.1" 200 -
+2024-09-26 02:29:46,373 - 127.0.0.1 - - [26/Sep/2024 02:29:46] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:29:49,568 - Login attempt with username: Richy_Waters and password: edfsfs from 127.0.0.1
+2024-09-26 02:29:49,570 - 127.0.0.1 - - [26/Sep/2024 02:29:49] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-09-26 02:29:49,581 - 127.0.0.1 - - [26/Sep/2024 02:29:49] "GET /login HTTP/1.1" 200 -
+2024-09-26 02:29:49,624 - 127.0.0.1 - - [26/Sep/2024 02:29:49] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:30:30,009 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.97:5001
+2024-09-26 02:30:30,010 - [33mPress CTRL+C to quit[0m
+2024-09-26 02:30:32,632 - 127.0.0.1 - - [26/Sep/2024 02:30:32] "GET /login HTTP/1.1" 200 -
+2024-09-26 02:30:32,691 - 127.0.0.1 - - [26/Sep/2024 02:30:32] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:30:35,592 - Login attempt with username: efsdf and password: fwefwef from 127.0.0.1
+2024-09-26 02:30:35,593 - 127.0.0.1 - - [26/Sep/2024 02:30:35] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-09-26 02:30:35,608 - 127.0.0.1 - - [26/Sep/2024 02:30:35] "GET /login HTTP/1.1" 200 -
+2024-09-26 02:30:35,650 - 127.0.0.1 - - [26/Sep/2024 02:30:35] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:30:48,574 - 127.0.0.1 - - [26/Sep/2024 02:30:48] "GET / HTTP/1.1" 200 -
+2024-09-26 02:30:48,627 - 127.0.0.1 - - [26/Sep/2024 02:30:48] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:30:51,370 - 127.0.0.1 - - [26/Sep/2024 02:30:51] "GET /login HTTP/1.1" 200 -
+2024-09-26 02:30:51,411 - 127.0.0.1 - - [26/Sep/2024 02:30:51] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:30:54,163 - Login attempt with username: efwefwe and password: ewfwefwe from 127.0.0.1
+2024-09-26 02:30:54,164 - 127.0.0.1 - - [26/Sep/2024 02:30:54] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-09-26 02:30:54,175 - 127.0.0.1 - - [26/Sep/2024 02:30:54] "GET /login HTTP/1.1" 200 -
+2024-09-26 02:30:54,211 - 127.0.0.1 - - [26/Sep/2024 02:30:54] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:31:30,071 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.97:5001
+2024-09-26 02:31:30,072 - [33mPress CTRL+C to quit[0m
+2024-09-26 02:31:31,957 - 127.0.0.1 - - [26/Sep/2024 02:31:31] "GET /login HTTP/1.1" 200 -
+2024-09-26 02:31:32,009 - 127.0.0.1 - - [26/Sep/2024 02:31:32] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:31:35,318 - Login attempt with username: wdwfef and password: ewfwef from 127.0.0.1
+2024-09-26 02:31:35,319 - 127.0.0.1 - - [26/Sep/2024 02:31:35] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-09-26 02:31:35,334 - 127.0.0.1 - - [26/Sep/2024 02:31:35] "GET /login HTTP/1.1" 200 -
+2024-09-26 02:31:35,374 - 127.0.0.1 - - [26/Sep/2024 02:31:35] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:31:59,213 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.97:5001
+2024-09-26 02:31:59,213 - [33mPress CTRL+C to quit[0m
+2024-09-26 02:32:01,403 - 127.0.0.1 - - [26/Sep/2024 02:32:01] "GET /login HTTP/1.1" 200 -
+2024-09-26 02:32:01,455 - 127.0.0.1 - - [26/Sep/2024 02:32:01] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:32:04,948 - Login attempt with username: Sarah Green and password: ewfwefw from 127.0.0.1
+2024-09-26 02:32:04,950 - 127.0.0.1 - - [26/Sep/2024 02:32:04] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-09-26 02:32:04,962 - 127.0.0.1 - - [26/Sep/2024 02:32:04] "GET /login HTTP/1.1" 200 -
+2024-09-26 02:32:05,001 - 127.0.0.1 - - [26/Sep/2024 02:32:05] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:32:15,563 - 127.0.0.1 - - [26/Sep/2024 02:32:15] "GET /login HTTP/1.1" 200 -
+2024-09-26 02:32:15,621 - 127.0.0.1 - - [26/Sep/2024 02:32:15] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:32:42,567 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.97:5001
+2024-09-26 02:32:42,568 - [33mPress CTRL+C to quit[0m
+2024-09-26 02:32:44,654 - 127.0.0.1 - - [26/Sep/2024 02:32:44] "GET /login HTTP/1.1" 200 -
+2024-09-26 02:32:44,723 - 127.0.0.1 - - [26/Sep/2024 02:32:44] "GET /static/css/output.css HTTP/1.1" 200 -
+2024-09-26 02:32:52,953 - Login attempt with username: fewrferf and password: ewrfgrefgerg from 127.0.0.1
+2024-09-26 02:32:52,954 - 127.0.0.1 - - [26/Sep/2024 02:32:52] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-09-26 02:32:52,968 - 127.0.0.1 - - [26/Sep/2024 02:32:52] "GET /login HTTP/1.1" 200 -
+2024-09-26 02:32:53,005 - 127.0.0.1 - - [26/Sep/2024 02:32:53] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:33:07,550 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.97:5001
+2024-09-26 02:33:07,550 - [33mPress CTRL+C to quit[0m
+2024-09-26 02:33:09,492 - 127.0.0.1 - - [26/Sep/2024 02:33:09] "GET /login HTTP/1.1" 200 -
+2024-09-26 02:33:09,551 - 127.0.0.1 - - [26/Sep/2024 02:33:09] "GET /static/css/output.css HTTP/1.1" 200 -
+2024-09-26 02:33:16,113 - Login attempt with username: Richy_Waters and password: wedewfew from 127.0.0.1
+2024-09-26 02:33:16,114 - 127.0.0.1 - - [26/Sep/2024 02:33:16] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-09-26 02:33:16,125 - 127.0.0.1 - - [26/Sep/2024 02:33:16] "GET /login HTTP/1.1" 200 -
+2024-09-26 02:33:16,162 - 127.0.0.1 - - [26/Sep/2024 02:33:16] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 02:33:31,436 - 127.0.0.1 - - [26/Sep/2024 02:33:31] "GET / HTTP/1.1" 200 -
+2024-09-26 02:33:31,496 - 127.0.0.1 - - [26/Sep/2024 02:33:31] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+
+
+Thuesday, 26 September 2024 07:37:28
+
+2024-09-26 07:37:28,696 - 127.0.0.1 - - [26/Sep/2024 07:37:28] "GET / HTTP/1.1" 200 -
+2024-09-26 07:37:28,749 - 127.0.0.1 - - [26/Sep/2024 07:37:28] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 07:37:32,086 - 127.0.0.1 - - [26/Sep/2024 07:37:32] "GET /login HTTP/1.1" 200 -
+2024-09-26 07:37:32,125 - 127.0.0.1 - - [26/Sep/2024 07:37:32] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 07:37:36,788 - Login attempt with username: Sarah Green and password: kuhbjhbj from 127.0.0.1
+2024-09-26 07:37:36,796 - 127.0.0.1 - - [26/Sep/2024 07:37:36] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-09-26 07:37:36,805 - 127.0.0.1 - - [26/Sep/2024 07:37:36] "GET /login HTTP/1.1" 200 -
+2024-09-26 07:37:36,836 - 127.0.0.1 - - [26/Sep/2024 07:37:36] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 07:39:19,422 - Unauthorized access attempt to /admin from: 127.0.0.1
+2024-09-26 07:39:19,440 - 127.0.0.1 - - [26/Sep/2024 07:39:19] "GET /admin HTTP/1.1" 200 -
+2024-09-26 07:39:19,500 - 127.0.0.1 - - [26/Sep/2024 07:39:19] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 07:39:22,525 - 127.0.0.1 - - [26/Sep/2024 07:39:22] "GET / HTTP/1.1" 200 -
+2024-09-26 07:39:22,565 - 127.0.0.1 - - [26/Sep/2024 07:39:22] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -

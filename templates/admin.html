@@ -20,8 +20,11 @@
     <div class="bg-white p-8 rounded-lg shadow-md text-center">
       <!-- Display the flash message -->
       {% with messages = get_flashed_messages() %} {% if messages %}
-      <div class="mb-4 p-4 bg-white text-black rounded text-2xl">
-        {{ messages[0] }}
+      <div
+        class="mb-4 p-4 bg-white text-black rounded text-2xl flex gap-2 text-center items-center justify-center"
+      >
+        <p>🛑</p>
+        <p>{{ messages[0] }}</p>
       </div>
       {% endif %} {% endwith %}
 
