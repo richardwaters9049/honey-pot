@@ -1,5 +1,6 @@
 from flask import Flask, request, render_template, redirect, url_for, flash
 import logging
+import os
 
 # Setup logging to a file
 logging.basicConfig(
