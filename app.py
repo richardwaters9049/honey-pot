@@ -27,6 +27,7 @@ def login():
 
         # Flash a message and return to the login page
         flash("Login unsuccessful. Your attempt has been logged.")
+        flash("Try again..")
         return redirect(url_for("login"))  # Redirect back to login page
 
     return render_template("login.html")

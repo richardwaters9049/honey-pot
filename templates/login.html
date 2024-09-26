@@ -10,8 +10,10 @@
     />
   </head>
   <body class="flex items-center justify-center min-h-screen bg-gray-100">
-    <div class="bg-white p-8 rounded-lg shadow-md w-full max-w-xs">
-      <h1 class="text-xl font-bold mb-6">Login</h1>
+    <div
+      class="bg-white p-8 rounded-lg shadow-md w-full max-w-xs flex flex-col gap-5"
+    >
+      <h1 class="text-2xl font-bold mb-6">Login Attempt..</h1>
 
       <!-- Display flash messages -->
       {% with messages = get_flashed_messages() %} {% if messages %}
@@ -41,11 +43,14 @@
 
         <button
           type="submit"
-          class="bg-blue-500 text-white p-2 rounded hover:bg-blue-600"
+          class="bg-blue-500 text-white p-2 rounded hover:bg-blue-600 text-xl"
         >
           Login
         </button>
       </form>
+      <div class="home-container my-6 text-center">
+        <a href="/" class="text-yellow-400 text-5xl mt-8">🐝...</a>
+      </div>
     </div>
   </body>
 </html>
