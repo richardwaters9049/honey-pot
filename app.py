@@ -1,4 +1,4 @@
-from flask import Flask, request, render_template
+from flask import Flask, request, render_template, redirect, url_for, flash
 import logging
 
 # Setup logging to a file
@@ -7,11 +7,11 @@ logging.basicConfig(
 )
 
 app = Flask(__name__)
+app.secret_key = "your_secret_key"  # Required for flash messages
 
 
 @app.route("/")
 def home():
-    # Serve the landing page
     return render_template("index.html")
 
 
@@ -24,15 +24,24 @@ def login():
         logging.info(
             f"Login attempt with username: {username} and password: {password} from {request.remote_addr}"
         )
-        return "Login unsuccessful. Your attempt has been logged.", 403
-    # Serve the login page
+
+        # Flash a message and return to the login page
+        flash("Login unsuccessful. Your attempt has been logged.")
+        return redirect(url_for("login"))  # Redirect back to login page
+
     return render_template("login.html")
 
 
 @app.route("/admin")
 def admin():
-    logging.info(f"Attempt to access /admin from: {request.remote_addr}")
-    return "Forbidden. This attempt has been logged.", 403
+    # Log the unauthorized access attempt
+    logging.info(f"Unauthorized access attempt to /admin from: {request.remote_addr}")
+
+    # Flash the forbidden message
+    flash("🛑 Forbidden. This attempt has been logged.")
+
+    # Render the admin page (which will show the message and redirect)
+    return render_template("admin.html")
 
 
 if __name__ == "__main__":

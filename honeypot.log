@@ -41,3 +41,183 @@
 2024-09-26 00:32:09,477 - [33mPress CTRL+C to quit[0m
 2024-09-26 00:32:11,736 - 127.0.0.1 - - [26/Sep/2024 00:32:11] "GET / HTTP/1.1" 200 -
 2024-09-26 00:32:11,796 - 127.0.0.1 - - [26/Sep/2024 00:32:11] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:00:55,696 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.97:5001
+2024-09-26 01:00:55,696 - [33mPress CTRL+C to quit[0m
+2024-09-26 01:01:01,845 - 127.0.0.1 - - [26/Sep/2024 01:01:01] "GET / HTTP/1.1" 200 -
+2024-09-26 01:01:01,929 - 127.0.0.1 - - [26/Sep/2024 01:01:01] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:01:04,936 - 127.0.0.1 - - [26/Sep/2024 01:01:04] "GET /login HTTP/1.1" 200 -
+2024-09-26 01:01:04,988 - 127.0.0.1 - - [26/Sep/2024 01:01:04] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:01:09,250 - Login attempt with username: Sarah Green and password: rf lerkg lerkg from 127.0.0.1
+2024-09-26 01:01:09,251 - 127.0.0.1 - - [26/Sep/2024 01:01:09] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-09-26 01:01:09,264 - 127.0.0.1 - - [26/Sep/2024 01:01:09] "GET / HTTP/1.1" 200 -
+2024-09-26 01:01:09,306 - 127.0.0.1 - - [26/Sep/2024 01:01:09] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:01:12,335 - 127.0.0.1 - - [26/Sep/2024 01:01:12] "GET / HTTP/1.1" 200 -
+2024-09-26 01:01:12,379 - 127.0.0.1 - - [26/Sep/2024 01:01:12] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:01:16,509 - 127.0.0.1 - - [26/Sep/2024 01:01:16] "GET /login HTTP/1.1" 200 -
+2024-09-26 01:01:16,555 - 127.0.0.1 - - [26/Sep/2024 01:01:16] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:01:19,635 - Login attempt with username: Sarah Green and password: frefre from 127.0.0.1
+2024-09-26 01:01:19,637 - 127.0.0.1 - - [26/Sep/2024 01:01:19] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-09-26 01:01:19,648 - 127.0.0.1 - - [26/Sep/2024 01:01:19] "GET / HTTP/1.1" 200 -
+2024-09-26 01:01:19,688 - 127.0.0.1 - - [26/Sep/2024 01:01:19] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:01:22,723 - 127.0.0.1 - - [26/Sep/2024 01:01:22] "GET / HTTP/1.1" 200 -
+2024-09-26 01:01:22,787 - 127.0.0.1 - - [26/Sep/2024 01:01:22] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:02:14,293 - 127.0.0.1 - - [26/Sep/2024 01:02:14] "GET /login HTTP/1.1" 200 -
+2024-09-26 01:02:14,346 - 127.0.0.1 - - [26/Sep/2024 01:02:14] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:02:17,998 - Login attempt with username: Sarah Green and password: scxsdc from 127.0.0.1
+2024-09-26 01:02:18,000 - 127.0.0.1 - - [26/Sep/2024 01:02:18] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-09-26 01:02:18,018 - 127.0.0.1 - - [26/Sep/2024 01:02:18] "GET / HTTP/1.1" 200 -
+2024-09-26 01:02:18,063 - 127.0.0.1 - - [26/Sep/2024 01:02:18] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:02:21,082 - 127.0.0.1 - - [26/Sep/2024 01:02:21] "GET / HTTP/1.1" 200 -
+2024-09-26 01:02:21,120 - 127.0.0.1 - - [26/Sep/2024 01:02:21] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:02:23,472 - 127.0.0.1 - - [26/Sep/2024 01:02:23] "GET /login HTTP/1.1" 200 -
+2024-09-26 01:02:23,524 - 127.0.0.1 - - [26/Sep/2024 01:02:23] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:02:27,130 - Login attempt with username: cdcsdc and password: csddscd from 127.0.0.1
+2024-09-26 01:02:27,131 - 127.0.0.1 - - [26/Sep/2024 01:02:27] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-09-26 01:02:27,142 - 127.0.0.1 - - [26/Sep/2024 01:02:27] "GET / HTTP/1.1" 200 -
+2024-09-26 01:02:27,184 - 127.0.0.1 - - [26/Sep/2024 01:02:27] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:02:30,210 - 127.0.0.1 - - [26/Sep/2024 01:02:30] "GET / HTTP/1.1" 200 -
+2024-09-26 01:02:30,253 - 127.0.0.1 - - [26/Sep/2024 01:02:30] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:05:55,119 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.97:5001
+2024-09-26 01:05:55,119 - [33mPress CTRL+C to quit[0m
+2024-09-26 01:05:59,740 - 127.0.0.1 - - [26/Sep/2024 01:05:59] "GET / HTTP/1.1" 200 -
+2024-09-26 01:05:59,819 - 127.0.0.1 - - [26/Sep/2024 01:05:59] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:06:03,449 - 127.0.0.1 - - [26/Sep/2024 01:06:03] "GET /login HTTP/1.1" 200 -
+2024-09-26 01:06:03,494 - 127.0.0.1 - - [26/Sep/2024 01:06:03] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:06:07,651 - Login attempt with username: Sarah Green and password: kjnkjn from 127.0.0.1
+2024-09-26 01:06:07,652 - 127.0.0.1 - - [26/Sep/2024 01:06:07] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-09-26 01:06:07,663 - 127.0.0.1 - - [26/Sep/2024 01:06:07] "GET /login HTTP/1.1" 200 -
+2024-09-26 01:06:07,702 - 127.0.0.1 - - [26/Sep/2024 01:06:07] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:07:25,495 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.97:5001
+2024-09-26 01:07:25,495 - [33mPress CTRL+C to quit[0m
+2024-09-26 01:07:29,111 - 127.0.0.1 - - [26/Sep/2024 01:07:29] "GET / HTTP/1.1" 200 -
+2024-09-26 01:07:29,186 - 127.0.0.1 - - [26/Sep/2024 01:07:29] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:07:31,602 - 127.0.0.1 - - [26/Sep/2024 01:07:31] "GET /login HTTP/1.1" 200 -
+2024-09-26 01:07:31,658 - 127.0.0.1 - - [26/Sep/2024 01:07:31] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:07:37,832 - Login attempt with username: thegizmos and password: kjnkjn from 127.0.0.1
+2024-09-26 01:07:37,834 - 127.0.0.1 - - [26/Sep/2024 01:07:37] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-09-26 01:07:37,850 - 127.0.0.1 - - [26/Sep/2024 01:07:37] "GET /login HTTP/1.1" 200 -
+2024-09-26 01:07:37,895 - 127.0.0.1 - - [26/Sep/2024 01:07:37] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:08:09,488 - Login attempt with username: Jean Parkinson and password: kjnkjnnk from 127.0.0.1
+2024-09-26 01:08:09,490 - 127.0.0.1 - - [26/Sep/2024 01:08:09] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-09-26 01:08:09,500 - 127.0.0.1 - - [26/Sep/2024 01:08:09] "GET /login HTTP/1.1" 200 -
+2024-09-26 01:08:09,542 - 127.0.0.1 - - [26/Sep/2024 01:08:09] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:08:23,223 - 127.0.0.1 - - [26/Sep/2024 01:08:23] "GET / HTTP/1.1" 200 -
+2024-09-26 01:08:23,278 - 127.0.0.1 - - [26/Sep/2024 01:08:23] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:08:34,068 - Attempt to access /admin from: 127.0.0.1
+2024-09-26 01:08:34,068 - 127.0.0.1 - - [26/Sep/2024 01:08:34] "[31m[1mGET /admin HTTP/1.1[0m" 403 -
+2024-09-26 01:11:04,174 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.97:5001
+2024-09-26 01:11:04,175 - [33mPress CTRL+C to quit[0m
+2024-09-26 01:11:10,843 - 127.0.0.1 - - [26/Sep/2024 01:11:10] "GET / HTTP/1.1" 200 -
+2024-09-26 01:11:10,919 - 127.0.0.1 - - [26/Sep/2024 01:11:10] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:11:12,583 - 127.0.0.1 - - [26/Sep/2024 01:11:12] "GET /login HTTP/1.1" 200 -
+2024-09-26 01:11:12,635 - 127.0.0.1 - - [26/Sep/2024 01:11:12] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:11:19,518 - Login attempt with username: Richy_Waters and password: jknjnkjnk from 127.0.0.1
+2024-09-26 01:11:19,520 - 127.0.0.1 - - [26/Sep/2024 01:11:19] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-09-26 01:11:19,528 - 127.0.0.1 - - [26/Sep/2024 01:11:19] "GET /login HTTP/1.1" 200 -
+2024-09-26 01:11:19,579 - 127.0.0.1 - - [26/Sep/2024 01:11:19] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:11:30,167 - Unauthorized access attempt to /admin from: 127.0.0.1
+2024-09-26 01:11:30,173 - 127.0.0.1 - - [26/Sep/2024 01:11:30] "[32mGET /admin HTTP/1.1[0m" 302 -
+2024-09-26 01:11:30,186 - 127.0.0.1 - - [26/Sep/2024 01:11:30] "GET / HTTP/1.1" 200 -
+2024-09-26 01:11:30,237 - 127.0.0.1 - - [26/Sep/2024 01:11:30] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:12:34,330 - 127.0.0.1 - - [26/Sep/2024 01:12:34] "GET / HTTP/1.1" 200 -
+2024-09-26 01:12:34,393 - 127.0.0.1 - - [26/Sep/2024 01:12:34] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:12:37,786 - Unauthorized access attempt to /admin from: 127.0.0.1
+2024-09-26 01:12:37,786 - 127.0.0.1 - - [26/Sep/2024 01:12:37] "[32mGET /admin HTTP/1.1[0m" 302 -
+2024-09-26 01:12:37,796 - 127.0.0.1 - - [26/Sep/2024 01:12:37] "GET / HTTP/1.1" 200 -
+2024-09-26 01:12:37,843 - 127.0.0.1 - - [26/Sep/2024 01:12:37] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:14:40,936 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.97:5001
+2024-09-26 01:14:40,936 - [33mPress CTRL+C to quit[0m
+2024-09-26 01:14:46,999 - 127.0.0.1 - - [26/Sep/2024 01:14:46] "GET / HTTP/1.1" 200 -
+2024-09-26 01:14:47,073 - 127.0.0.1 - - [26/Sep/2024 01:14:47] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:14:51,227 - Unauthorized access attempt to /admin from: 127.0.0.1
+2024-09-26 01:14:51,233 - 127.0.0.1 - - [26/Sep/2024 01:14:51] "GET /admin HTTP/1.1" 200 -
+2024-09-26 01:14:51,280 - 127.0.0.1 - - [26/Sep/2024 01:14:51] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:14:54,304 - 127.0.0.1 - - [26/Sep/2024 01:14:54] "GET / HTTP/1.1" 200 -
+2024-09-26 01:14:54,351 - 127.0.0.1 - - [26/Sep/2024 01:14:54] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:15:35,798 - Unauthorized access attempt to /admin from: 127.0.0.1
+2024-09-26 01:15:35,800 - 127.0.0.1 - - [26/Sep/2024 01:15:35] "GET /admin HTTP/1.1" 200 -
+2024-09-26 01:15:35,864 - 127.0.0.1 - - [26/Sep/2024 01:15:35] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:15:38,887 - 127.0.0.1 - - [26/Sep/2024 01:15:38] "GET / HTTP/1.1" 200 -
+2024-09-26 01:15:38,932 - 127.0.0.1 - - [26/Sep/2024 01:15:38] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:16:00,544 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.97:5001
+2024-09-26 01:16:00,544 - [33mPress CTRL+C to quit[0m
+2024-09-26 01:16:06,351 - Unauthorized access attempt to /admin from: 127.0.0.1
+2024-09-26 01:16:06,364 - 127.0.0.1 - - [26/Sep/2024 01:16:06] "GET /admin HTTP/1.1" 200 -
+2024-09-26 01:16:06,419 - 127.0.0.1 - - [26/Sep/2024 01:16:06] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:16:09,458 - 127.0.0.1 - - [26/Sep/2024 01:16:09] "GET / HTTP/1.1" 200 -
+2024-09-26 01:16:09,503 - 127.0.0.1 - - [26/Sep/2024 01:16:09] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:17:16,750 - Unauthorized access attempt to /admin from: 127.0.0.1
+2024-09-26 01:17:16,753 - 127.0.0.1 - - [26/Sep/2024 01:17:16] "GET /admin HTTP/1.1" 200 -
+2024-09-26 01:17:16,820 - 127.0.0.1 - - [26/Sep/2024 01:17:16] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:17:22,179 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.97:5001
+2024-09-26 01:17:22,179 - [33mPress CTRL+C to quit[0m
+2024-09-26 01:17:26,574 - 127.0.0.1 - - [26/Sep/2024 01:17:26] "GET / HTTP/1.1" 200 -
+2024-09-26 01:17:26,655 - 127.0.0.1 - - [26/Sep/2024 01:17:26] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:17:27,718 - 127.0.0.1 - - [26/Sep/2024 01:17:27] "GET / HTTP/1.1" 200 -
+2024-09-26 01:17:27,760 - 127.0.0.1 - - [26/Sep/2024 01:17:27] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:17:32,593 - Unauthorized access attempt to /admin from: 127.0.0.1
+2024-09-26 01:17:32,596 - 127.0.0.1 - - [26/Sep/2024 01:17:32] "GET /admin HTTP/1.1" 200 -
+2024-09-26 01:17:32,649 - 127.0.0.1 - - [26/Sep/2024 01:17:32] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:17:35,673 - 127.0.0.1 - - [26/Sep/2024 01:17:35] "GET / HTTP/1.1" 200 -
+2024-09-26 01:17:35,719 - 127.0.0.1 - - [26/Sep/2024 01:17:35] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:18:04,460 - 127.0.0.1 - - [26/Sep/2024 01:18:04] "GET / HTTP/1.1" 200 -
+2024-09-26 01:18:04,505 - 127.0.0.1 - - [26/Sep/2024 01:18:04] "[36mGET /static/css/tailwind.css HTTP/1.1[0m" 304 -
+2024-09-26 01:19:37,462 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.97:5001
+2024-09-26 01:19:37,462 - [33mPress CTRL+C to quit[0m
+2024-09-26 01:19:41,906 - 127.0.0.1 - - [26/Sep/2024 01:19:41] "GET / HTTP/1.1" 200 -
+2024-09-26 01:19:41,982 - 127.0.0.1 - - [26/Sep/2024 01:19:41] "[33mGET /static/css/tailwind.css HTTP/1.1[0m" 404 -
+2024-09-26 01:22:20,042 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.97:5001
+2024-09-26 01:22:20,043 - [33mPress CTRL+C to quit[0m
+2024-09-26 01:22:22,968 - 127.0.0.1 - - [26/Sep/2024 01:22:22] "GET / HTTP/1.1" 200 -
+2024-09-26 01:22:23,038 - 127.0.0.1 - - [26/Sep/2024 01:22:23] "[33mGET /templates/static/css/tailwind.css HTTP/1.1[0m" 404 -
+2024-09-26 01:24:16,416 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.97:5001
+2024-09-26 01:24:16,416 - [33mPress CTRL+C to quit[0m
+2024-09-26 01:24:19,598 - 127.0.0.1 - - [26/Sep/2024 01:24:19] "GET / HTTP/1.1" 200 -
+2024-09-26 01:24:19,678 - 127.0.0.1 - - [26/Sep/2024 01:24:19] "[33mGET /templates/static/css/tailwind.css HTTP/1.1[0m" 404 -
+2024-09-26 01:24:21,460 - 127.0.0.1 - - [26/Sep/2024 01:24:21] "GET / HTTP/1.1" 200 -
+2024-09-26 01:24:21,494 - 127.0.0.1 - - [26/Sep/2024 01:24:21] "[33mGET /templates/static/css/tailwind.css HTTP/1.1[0m" 404 -
+2024-09-26 01:24:28,128 - 127.0.0.1 - - [26/Sep/2024 01:24:28] "GET /login HTTP/1.1" 200 -
+2024-09-26 01:24:28,191 - 127.0.0.1 - - [26/Sep/2024 01:24:28] "[33mGET /templates/static/css/tailwind.css HTTP/1.1[0m" 404 -
+2024-09-26 01:24:32,029 - Unauthorized access attempt to /admin from: 127.0.0.1
+2024-09-26 01:24:32,033 - 127.0.0.1 - - [26/Sep/2024 01:24:32] "GET /admin HTTP/1.1" 200 -
+2024-09-26 01:24:32,078 - 127.0.0.1 - - [26/Sep/2024 01:24:32] "[33mGET /templates/static/css/tailwind.css HTTP/1.1[0m" 404 -
+2024-09-26 01:24:35,110 - 127.0.0.1 - - [26/Sep/2024 01:24:35] "GET / HTTP/1.1" 200 -
+2024-09-26 01:24:35,156 - 127.0.0.1 - - [26/Sep/2024 01:24:35] "[33mGET /templates/static/css/tailwind.css HTTP/1.1[0m" 404 -
+2024-09-26 01:24:37,891 - 127.0.0.1 - - [26/Sep/2024 01:24:37] "[33mGET /templates/static/css/tailwind.css HTTP/1.1[0m" 404 -
+2024-09-26 01:25:31,942 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.97:5001
+2024-09-26 01:25:31,942 - [33mPress CTRL+C to quit[0m
+2024-09-26 01:25:34,640 - 127.0.0.1 - - [26/Sep/2024 01:25:34] "GET / HTTP/1.1" 200 -
+2024-09-26 01:25:34,748 - 127.0.0.1 - - [26/Sep/2024 01:25:34] "[33mGET /src/tailwind.css HTTP/1.1[0m" 404 -

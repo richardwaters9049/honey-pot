@@ -6,12 +6,20 @@
     <title>Login</title>
     <link
       rel="stylesheet"
-      href="{{ url_for('static', filename='css/tailwind.css') }}"
+      href="{{ url_for('static', filename='../templates/static/css/tailwind.css') }}"
     />
   </head>
   <body class="flex items-center justify-center min-h-screen bg-gray-100">
     <div class="bg-white p-8 rounded-lg shadow-md w-full max-w-xs">
       <h1 class="text-xl font-bold mb-6">Login</h1>
+
+      <!-- Display flash messages -->
+      {% with messages = get_flashed_messages() %} {% if messages %}
+      <div class="mb-4 p-4 bg-red-100 text-red-700 rounded">
+        {{ messages[0] }}
+      </div>
+      {% endif %} {% endwith %}
+
       <form action="/login" method="POST" class="flex flex-col space-y-4">
         <label for="username" class="text-sm font-semibold">Username:</label>
         <input
