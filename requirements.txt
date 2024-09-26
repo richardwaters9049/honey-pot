@@ -42,7 +42,7 @@ Django==5.0.2
 docutils==0.20.1
 executing==2.0.1
 fastjsonschema==2.19.1
-Flask==2.1.2
+Flask==2.2.5
 Flask-Cors==3.0.10
 Flask-SQLAlchemy==3.1.1
 flatbuffers==24.3.25
