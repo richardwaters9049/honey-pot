@@ -831,3 +831,25 @@ Thuesday, 26 September 2024 07:37:28
 2024-09-26 07:39:19,500 - 127.0.0.1 - - [26/Sep/2024 07:39:19] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
 2024-09-26 07:39:22,525 - 127.0.0.1 - - [26/Sep/2024 07:39:22] "GET / HTTP/1.1" 200 -
 2024-09-26 07:39:22,565 - 127.0.0.1 - - [26/Sep/2024 07:39:22] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 07:54:25,902 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.97:5001
+2024-09-26 07:54:25,902 - [33mPress CTRL+C to quit[0m
+2024-09-26 07:54:35,161 - 127.0.0.1 - - [26/Sep/2024 07:54:35] "GET / HTTP/1.1" 200 -
+2024-09-26 07:54:35,210 - 127.0.0.1 - - [26/Sep/2024 07:54:35] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 08:35:40,169 - 127.0.0.1 - - [26/Sep/2024 08:35:40] "GET /login HTTP/1.1" 200 -
+2024-09-26 08:35:40,252 - 127.0.0.1 - - [26/Sep/2024 08:35:40] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 08:35:44,875 - Login attempt with username: Richy_Waters and password: lkkjm from 127.0.0.1
+2024-09-26 08:35:44,882 - 127.0.0.1 - - [26/Sep/2024 08:35:44] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-09-26 08:35:44,896 - 127.0.0.1 - - [26/Sep/2024 08:35:44] "GET /login HTTP/1.1" 200 -
+2024-09-26 08:35:44,943 - 127.0.0.1 - - [26/Sep/2024 08:35:44] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 08:35:54,634 - 127.0.0.1 - - [26/Sep/2024 08:35:54] "GET / HTTP/1.1" 200 -
+2024-09-26 08:35:54,689 - 127.0.0.1 - - [26/Sep/2024 08:35:54] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 08:35:59,314 - 127.0.0.1 - - [26/Sep/2024 08:35:59] "GET /login HTTP/1.1" 200 -
+2024-09-26 08:35:59,370 - 127.0.0.1 - - [26/Sep/2024 08:35:59] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 08:36:13,724 - Unauthorized access attempt to /admin from: 127.0.0.1
+2024-09-26 08:36:13,736 - 127.0.0.1 - - [26/Sep/2024 08:36:13] "GET /admin HTTP/1.1" 200 -
+2024-09-26 08:36:13,800 - 127.0.0.1 - - [26/Sep/2024 08:36:13] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
+2024-09-26 08:36:16,835 - 127.0.0.1 - - [26/Sep/2024 08:36:16] "GET / HTTP/1.1" 200 -
+2024-09-26 08:36:16,889 - 127.0.0.1 - - [26/Sep/2024 08:36:16] "[36mGET /static/css/output.css HTTP/1.1[0m" 304 -
