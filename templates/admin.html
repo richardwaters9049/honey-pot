@@ -6,7 +6,7 @@
     <title>Forbidden</title>
     <link
       rel="stylesheet"
-      href="{{ url_for('static', filename='../templates/static/css/tailwind.css') }}"
+      href="{{ url_for('static', filename='css/output.css') }}"
     />
 
     <script>
@@ -20,12 +20,12 @@
     <div class="bg-white p-8 rounded-lg shadow-md text-center">
       <!-- Display the flash message -->
       {% with messages = get_flashed_messages() %} {% if messages %}
-      <div class="mb-4 p-4 bg-red-500 text-black rounded text-xl">
+      <div class="mb-4 p-4 bg-white text-black rounded text-2xl">
         {{ messages[0] }}
       </div>
       {% endif %} {% endwith %}
 
-      <p class="text-gray-700 mt-4 text-xl">
+      <p class="text-gray-700 mt-4 text-2xl">
         You will be redirected to the home page shortly...
       </p>
     </div>

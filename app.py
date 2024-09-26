@@ -38,7 +38,8 @@ def admin():
     logging.info(f"Unauthorized access attempt to /admin from: {request.remote_addr}")
 
     # Flash the forbidden message
-    flash("🛑 Forbidden. This attempt has been logged.")
+    flash("🛑 Forbidden.")
+    flash("This attempt has been logged.")
 
     # Render the admin page (which will show the message and redirect)
     return render_template("admin.html")
